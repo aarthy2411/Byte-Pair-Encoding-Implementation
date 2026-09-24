@@ -7,7 +7,7 @@ Byte Pair Encoding is one of the most widely used tokenization techniques in mod
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project aims to provide a simple and educational implementation of the Byte Pair Encoding algorithm. It explains how raw text is converted into meaningful subword tokens by repeatedly merging the most frequent adjacent symbol pairs.
 
@@ -15,7 +15,7 @@ The implementation is designed for students, beginners, and developers who want 
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Implement the Byte Pair Encoding algorithm from scratch.
 - Learn how modern tokenizers generate subword vocabularies.
@@ -25,7 +25,7 @@ The implementation is designed for students, beginners, and developers who want 
 
 ---
 
-## ✨ Features
+##  Features
 
 - Pure Python implementation
 - Easy-to-read and well-commented code
@@ -36,7 +36,7 @@ The implementation is designed for students, beginners, and developers who want 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python 3.x
 - Standard Python Libraries
@@ -44,7 +44,7 @@ The implementation is designed for students, beginners, and developers who want 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Byte-Pair-Encoding-Implementation/
@@ -58,7 +58,7 @@ Byte-Pair-Encoding-Implementation/
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 The Byte Pair Encoding algorithm follows these steps:
 
@@ -113,7 +113,7 @@ The Byte Pair Encoding algorithm follows these steps:
 ```
 
 
-## 📊 Example
+##  Example
 
 ### Input
 
@@ -143,7 +143,7 @@ est
 
 ---
 
-## 📚 Applications
+##  Applications
 
 Byte Pair Encoding is commonly used in:
 
@@ -158,7 +158,7 @@ Byte Pair Encoding is commonly used in:
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - Byte-level BPE implementation
 - Interactive command-line interface
@@ -172,13 +172,13 @@ Byte Pair Encoding is commonly used in:
 
 
 
-## 📄 License
+##  License
 
 This project is intended for educational and learning purposes.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Aarthy.V**    
 B.Sc.Computer Science with Artificial Intelligence
